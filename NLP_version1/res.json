@@ -1,0 +1,5 @@
+{'took': 2, 'timed_out': False, '_shards': {'total': 1, 'successful': 1, 'skipped': 0, 'failed': 0}, 
+
+'hits': {'total': {'value': 1, 'relation': 'eq'}, 'max_score': 7.902734, 'hits': [{'_index': 'la-vern-cases', '_type': '_doc', '_id': '2', '_score': 7.902734, '_source': {'sentID': '1302554P20S1', 'text': '4. The Veteran did
+not have a psychiatric disorder in service that was unrelated to the use of drugs.', 'caseNumber': '1302554', 'paragraphNumber': '20', 'sentenceNumber': '1', 'id': 1, 'rhetClass': 'FindingSentence', 'rhetClassPredict': 'EvidenceSentence', 'attributions': [{'type': 'Finding', 'object': 'The Veteran did not have a psychiatric
+disorder in service that was unrelated to the use of drugs', 'polarity': 'negative', 'cue': ''}]}}]}}

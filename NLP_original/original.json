@@ -1,0 +1,21 @@
+{
+  "created": "06/06/2020 14:49:05",
+  "dataFile": "BVAsentence.pkl",
+  "xName": "text",
+  "yName": "rhetClass",
+  "name": "original.json",
+  "hyperParams": { "max_words": 3000, "max_epochs": 30 },
+  "report": {
+    "score": {
+      "Test score": 0.732387611683804,
+      "Test accuracy": 0.8520953059196472
+    },
+    "crossTabReport": "Actual             CitationSentence  EvidenceSentence  FindingSentence  LegalRuleSentence  ReasoningSentence  Sentence   All\nPredicted                                                                                                                   \nCitationSentence                206                 0                0                  2                  1         4   213\nEvidenceSentence                  2               486                9                  1                 30        10   538\nFindingSentence                   0                 3               78                  8                  8         1    98\nLegalRuleSentence                 1                 1                4                141                  6        10   163\nReasoningSentence                 0                22               13                 15                 86         7   143\nSentence                          0                 5                8                  4                  5        40    62\nAll                             209               517              112                171                136        72  1217"
+  },
+  "dataframe": "originalDataSet.pkl",
+  "dataset": "originalDataSet.csv",
+  "model": "originalModel.h5",
+  "weights": "originalWeights.h5",
+  "tokens": "originalTokenizer.pkl",
+  "labels": "originalLabel.pkl"
+}

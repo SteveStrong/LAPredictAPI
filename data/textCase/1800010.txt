@@ -1,0 +1,183 @@
+Citation Nr: 1800010	
+Decision Date: 01/02/18    Archive Date: 01/19/18
+
+DOCKET NO.  13-25 447	)	DATE
+	)
+	)
+
+On appeal from the
+Department of Veterans Affairs Regional Office in Winston-Salem, North Carolina
+
+
+THE ISSUE
+
+1. Entitlement to an initial disability rating greater than 30 percent for an anxiety disorder not otherwise specified claimed as PTSD.
+
+2. Entitlement to a total disability rating based on individual unemployability (TDIU) due to the service connected anxiety disorder not otherwise specified claimed as PTSD.
+
+
+REPRESENTATION
+
+Appellant represented by:	Krista McGill
+
+
+WITNESSES AT HEARING ON APPEAL
+
+The Veteran and his Spouse
+
+
+ATTORNEY FOR THE BOARD
+
+Alexia E. Palacios-Peters, Associate Counsel
+
+
+INTRODUCTION
+
+The Veteran had active service from May 1969 to January 1972.
+
+This matter comes before the Board of Veteran's Appeals (Board) on appeal from a November 2011 rating decision of the Department of Veterans Affairs Regional Office (RO) in Winston-Salem, North Carolina, granting service connection for anxiety disorder not otherwise claimed as posttraumatic stress disorder and assigning a 30 percent rating, as well as an August 2015 rating decision denying the claim for entitlement to individual unemployability.
+
+The Veteran was afforded a hearing before the undersigned Veterans Law Judge via videoteleconference in April 2017. A written transcript of this hearing has been prepared and incorporated into the evidence of record.
+
+
+FINDINGS OF FACT
+
+1. From October 22, 2010, the date of the award of service connection, the Veteran's service connected PTSD resulted in at most occupational and social impairment, with deficiencies in most areas, such as work, school, family relations, judgment, thinking, or mood.
+
+2. The Veteran maintains some social and occupational ability, and thus, does not demonstrate total occupational or social impairment or symptoms of such severity, duration or frequency that equate to such.
+
+3. Resolving reasonable doubt in the Veteran's favor, the most competent and credible evidence suggests that his service-connected PTSD precludes him from securing or maintaining substantially gainful employment.
+
+
+CONCLUSION OF LAW
+
+1. The criteria for a disability rating of 70 percent for PTSD have been met. 38 U.S.C. §§ 1155, 5107 (2012); 38 C.F.R. §§ 4.1, 4.3, 4.7, 4.130, Diagnostic Code 9411 (2017).
+
+2. The criteria for a TDIU have been met. 38 U.S.C. §§ 1155, 5107 (2012); 38 C.F.R. §§ 3.102, 3.340, 3.341, 4.15, 4.16, 4.19 (2017).
+
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSION
+
+VCAA
+
+Neither the Veteran nor his representative has raised any issues with the duty to notify or duty to assist. See Scott v McDonald, 789 F.3d 1375, 1381 (Fed. Cir. 2015) (holding that "the Board's obligation to read filings in a liberal manner does not require the Board . . . to search the record and address procedural arguments when the veteran fails to raise them before the Board."); Dickens v. McDonald, 814 F.3d 1359, 1361 (Fed. Cir. 2016) (applying Scott to duty to assist argument).
+
+Increased Rating - PTSD
+
+The Veteran contends he is entitled to a rating higher than 30 percent for his PTSD.
+
+Disability ratings are determined by applying the criteria set forth in the VA Schedule for Rating Disabilities (Rating Schedule) and are intended to represent the average impairment of earning capacity resulting from disability. 38 U.S.C. § 1155 (2012); 38 C.F.R. § 4.1 (2017). Separate diagnostic codes identify the various disabilities. Disabilities must be reviewed in relation to their history. 38 C.F.R. § 4.1. Other applicable, general policy considerations are: interpreting reports of examination in light of the whole recorded history, reconciling the various reports into a consistent picture so that the current rating may accurately reflect the elements of disability, 38 C.F.R. § 4.2 (2017); resolving any reasonable doubt regarding the degree of disability in favor of the claimant, 38 C.F.R. § 4.3 (2017); where there is a question as to which of two evaluations apply, assigning a higher of the two where the disability picture more nearly approximates the criteria for the next higher rating, 38 C.F.R. § 4.7 (2017); and, evaluating functional impairment on the basis of lack of usefulness, and the effects of the disability upon the person's ordinary activity, 38 C.F.R. § 4.10 (2017). Schafrath v. Derwinski, 1 Vet. App. 589 (1991).
+
+In order to evaluate the level of disability and any changes in condition, it is necessary to consider the complete medical history of the veteran's condition. Schafrath at 594; See also 38 C.F.R. §§ 4.1, 4.2.
+
+The Veteran is seeking an increased initial rating for his service-connected PTSD, which is currently rated in accordance with the criteria set forth in the Schedule for Rating Disabilities, 38 C.F.R. Part 4, Diagnostic Code 9411 (2017) as 30 percent disabling effective October 22, 2010.
+
+A 50 percent evaluation is warranted when there is occupational and social impairment with reduced reliability and productivity due to such symptoms as: flattened affect; circumstantial, circumlocutory, or stereotyped speech; panic attacks more than once a week; difficulty in understanding complex commands; impairment of short- and long-term memory (e.g. retention of only highly learned material, forgetting to complete tasks); impaired judgment; impaired abstract thinking; disturbances of motivation and mood; and difficulty in establishing and maintaining effective work and social relationships. Id.
+
+A 70 percent evaluation is warranted when there is occupational and social impairment with deficiencies in most areas, such as work, school, family relations, judgment, thinking, or mood, due to such symptoms as: suicidal ideation; obsessional rituals which interfere with routine activities; speech intermittently illogical, obscure, or irrelevant; near-continuous panic or depression affecting the ability to function independently, appropriately and effectively; impaired impulse control (such as unprovoked irritability with periods of violence); spatial disorientation; neglect of personal appearance and hygiene; difficulty in adapting to stressful circumstances (including work or a work like setting); and the inability to establish and maintain effective relationships. Id.
+
+A 100 percent evaluation is warranted if there is total occupational and social impairment, due to such symptoms as: gross impairment in thought processes or communication; persistent delusions or hallucinations; grossly inappropriate behavior; persistent danger of hurting self or others; intermittent inability to perform activities of daily living (including maintenance of minimal personal hygiene); disorientation to time or place; and memory loss for names of close relatives, own occupation, or own name. Id.
+
+Furthermore, as the United States Court of Appeals for the Federal Circuit recently explained, evaluation under 38 C.F.R. § 4.130 is "symptom-driven," meaning that "symptomatology should be the fact-finder's primary focus when deciding entitlement to a given disability rating" under that regulation. Vazquez-Claudio v. Shinseki, 713 F.3d 112, 116-17 (Fed.Cir.2013). The symptoms listed are not exhaustive, but rather "serve as examples of the type and degree of symptoms, or their effects, that would justify a particular rating." Mauerhan v. Principi, 16 Vet. App. 436, 442 (2002).
+
+In the context of determining whether a higher disability evaluation is warranted, the analysis requires considering "not only the presence of certain symptoms[,] but also that those symptoms have caused occupational and social impairment in most of the referenced areas" - i.e., "the regulation ...requires an ultimate factual conclusion as to the Veteran's level of impairment in 'most areas.'" Vazquez-Claudio at 117-18; 38 C.F.R. § 4.130, DC 9411. 
+
+Additionally, consideration is given to the frequency, severity, and duration of psychiatric symptoms, the length of remission, and the Veteran's capacity for adjustment during periods of remission. The rating agency shall assign an evaluation based on all the evidence of record that bears on occupational and social impairment, rather than solely on the examiner's assessment of the level of disability at the moment of the examination. 38 C.F.R. § 4.126 (a). Furthermore, when evaluating the level of disability arising from a mental disorder, the rating agency will consider the extent of social impairment, but shall not assign an evaluation solely on the basis of social impairment. 38 C.F.R. § 4.126 (b). It is necessary to evaluate a disability from the point of view of the Veteran working or seeking work. 38 C.F.R. § 4.2.
+
+The Board notes that the newer Diagnostic and Statistical Manual of Mental Disorders (5th Ed.) (DSM-5) has been released, and 38 C.F.R. § 4.130 has been revised to refer to the DSM-5. The DSM-5 does not contain information regarding GAF scores. However, since much of the evidence relevant to this claim was obtained during the time period that the DSM-IV was in effect, and the DSM-5 is not applicable to claims (such as the instant claim) certified to the Board before August 14, 2014, the Board will still consider the assigned GAF scores as relevant to this appeal.
+
+After a review of the record, the Board finds that the impact of the Veteran's service-connected PTSD on his occupational and social functioning warrants a 70 percent disability rating. 38 C.F.R. § 4.130, DC 9411. The Board has reviewed all the evidence in the Veteran's claims file, with an emphasis on the evidence relevant to this appeal.
+
+The Board, in determining that the Veteran is entitled to a 70 percent rating for the duration of the appeal, found that the July 2015 private medical examination, private treatment records, and VA treatment records were more probative then the VA examination provided to the Veteran in April 2011. In determining this, the Board finds that the rationale and file review provided by the private examiner was more in-depth and provided more critical analysis than the VA examiner's opinion and analysis. The private treatment records and VA treatment records report the Veteran's psychological history over the course of several years providing a more accurate disability picture.
+
+In November 2010, VA treatment records show the Veteran had recent suicidal ideations, terrible sleep, and social withdrawal. See November 2010 VATR. He went to the emergency department due to depression. Id. Records indicate the Veteran preferred to stay at home in a darkened room with the blinds closed. Id. He had vague paranoid ideations and auditory hallucinations, but denied visual hallucinations. Id. His GAF score was 55 percent, his mood was complex, and his affect was sad and tearful. Id. 
+
+In December 2010, the Veteran's treatment records showed the Veteran continued to have poor sleep, depressed mood, intrusive memories, and a sense of hypervigilance. See December 2010 VA treatment records. The Veteran denied any suicidal ideations at that time. Id. His GAF score was 55 percent. Id. He reports he was forced to retire from the phone company in 2008. Id. The Veteran stated his problems make it difficult to do his work, take care of things at home, and get along with other people. Id.
+
+The Veteran's January 2011 VA treatment records show the Veteran has symptoms of depression and PTSD. See January 2011 VA treatment records. He consistently experienced nightmares and flashbacks. Id. He reported a suicidal ideation and indicated he possessed a gun and bullets at his home unlocked and unloaded so he doesn't have time to think before pulling the trigger. Id. His GAF score was 40 percent. Id.
+
+On a different date in January 2011, the Veteran denied any suicidal ideations, visual and auditory hallucinations. Id. His GAF score was 50 percent. Id. He experienced an increased in anxiety, fear and phobias and had difficulty sleeping. Id. The Veteran's mood was alright and his affect was sullen. Id.
+
+VA treatment records in January 2011 also showed the Veteran had been on an emotional roller-coaster. Id. The Veteran worried about people in his neighborhood robbing him and had intrusive thoughts and nightmares. Id. The Veteran had some good days when his grandchildren visited him. Id.
+
+A March 2011 VA examination found the Veteran had a low mood, disrupted sleep, inability to recall information quickly, and fleeting thoughts about being dead. See March 2011 VA examination. The Veteran dreamed of his death and that of other close to him and passed away. Id. He avoids attending social events and doesn't do things he used to do. Id. The Veteran did not report an exaggerated startle response or hypervigilance but did report escalation in irritability and difficulty concentrating. Id. The examiner found the Veteran casually dressed with good hygiene, normal attention, and had no problems with activities of daily living. Id. The examiner opined the Veteran's symptoms did not significantly impact his social and occupational functioning nor did they cause significant emotional distress or impairment. Id.
+
+April 2011 VA treatment records show the Veteran discontinued his medications and wanted to stop seeing the mental health clinic. See April 2011 VA treatment records. The Veteran continued to do well and denied depressed mood, suicidal ideations, hallucinations, and nightmares. Id.
+
+VA treatment records in December 2011 showed the Veteran's mood was okay and his affect was mildly dysphoric, though notable brightening and congruent with full range and reactivity. See December 2011 VA treatment records. He had constant worry, restlessness, poor concentration, fatigue, and irritability. Id. He went to the emergency department for evaluation of sadness and depression. Id. The Veteran denied current suicidal ideation and visual and auditory hallucinations. Id. He experienced an increase in hypervigilance and hyper startle symptoms and denies an increase in nightmares or flashbacks. Id. The Veteran planned on continuing activity in church and felt that life is worth living. Id.
+
+In January 2012, the Veteran's mood was down, his affect congruent and stable, and he denied suicidal and homicidal ideations. See January 2012 VA treatment records. The Veteran exhibited hyperarousal, avoidance, intrusive thoughts, and nightmares. Id.
+
+February 2012 VA treatment records show the Veteran experienced nightmares about two to three times per week. See February 2012 VA treatment records. He stated he has contemplated suicide chronically, but never attempted it and had not had any thoughts about self-harm over the past month. Id. The Veteran was isolated, hypervigilant, and paranoid. Id. He received about 3-4 hours of sleep a night and had a depressed mood. Id. He denied suicidal ideations and visual and auditory hallucinations. Id.
+
+In November 2013, the Veteran's mood was depressed. See November 2013 VA treatment records. He had suicidal thoughts as recently as five to six weeks previously. Id. The Veteran endorsed occasional fleeting homicidal thoughts but would not specify targets. Id. Several years prior, the Veteran was in a fight with his brother and attempted to stab him. Id. The Veteran's mood was depressed and his affect congruent, sad and dysthymic. Id. He denied active suicidal and homicidal ideations, paranoid thoughts, and auditory and visual hallucinations. Id.
+
+The Veteran's private treatment records between May 2012 and March 2016 consistently show the Veteran experienced loss of sleep, nightmares, panic attacks, flashbacks, and visual and auditory hallucinations. See Private Treatment Records. He exhibited issues with his memory on several occasions. See May 2012, October 2014, and April 2015 Private Treatment Records. Suicidal ideation manifested in February 2015. See February 2015 Private Treatment Records.
+
+A private treatment provider for the Veteran stated that the Veteran has nightmares at least one to two times per week, flashbacks most every day, and panic attacks sporadically. See May 2012 Private Treatment Records. He averages about three hours of sleep per night, has intrusive thoughts, startles easily, is hypervigilant, and cannot tolerate anyone behind him. Id. The Veteran's recent memory is severely impaired and working memory is 100 percent impaired. Id. The Veteran experiences anger, sadness, and fear without his understanding why 75 percent of the time, which indicates his prefrontal cortex is dysfunctional. Id. He has difficulty concentrating, making decisions, learning new information, and processing emotions in context. Id. The Veteran indicated auditory hallucinations three to four times a week as well as visual hallucinations. Id. He feels depressed 90 percent of the time, angers and agitates easily. Id. He feels helpless and suicidal at times. Id. The provider found the Veteran is severely compromised in his ability to sustain social relationships and is unable to sustain work relationships. Id.
+
+The Veteran's private records show that in certain evaluations he did not feel down or depressed, had not had trouble falling asleep, had no trouble with daily activities, and did not exhibit any suicidal ideations. See February 2014 and February 2015 Private Treatment Records.
+
+A private medical evaluation conducted in July 2015 stated the Veteran had marital conflict, depressed mood, irritability, anger outbursts, road rage, avoidance in crowds, avoidance of unfamiliar situations, and hyper vigilance. See July 2015 Private Medical examination. The examiner found the Veteran's has occupational and social impairment, with deficiencies in most areas, such as work, school, family relations, judgment, thinking, and/or mood. See July 2015 Private Medical examination. He reasoned the Veteran's current level of functioning would not allow him to perform simple, routine, repetitive, minimally contacted employment duties. Id. He is far too excitable, sensitive and irritable to cope with the pressure of any employment responsibilities no matter how simple and routine they are. Id. The Veteran reported a long history of conflict with supervisors and coworkers during his more competent years of functioning. Id. His current level of psychological decline would make it nearly impossible for him to effectively share his workspace with others or to appropriately respond to instruction and criticism from others. Id.
+
+The private examiner also found the Veteran's probability of decompensating psychologically is extremely high if he had a job involving only simple, routine, repetitive tasks and requiring only minimal contact with others. Id. The Veteran showed symptoms of daily alcohol consumption, chronic sleep difficulty, night sweats, and auditory hallucinations. Id. The private examiner also stated that based on clinical observations during the evaluation and observations made by the Veteran's providers since 2010, his symptoms and limitations have been consistent since 2010. Id.
+
+The Veteran's private medical provider submitted a letter in October 2015 documenting the Veteran has nightmares, night sweats, flashbacks, and panic attacks. See October 2015 Third Party Correspondence. The private provider found the Veteran's working memory was 80 percent impaired with anger, sadness, and fear affecting him without the Veteran's understanding why 90 percent of the time. Id.
+
+At the April 2017 Board hearing, the Veteran stated that he had phobias about "pretty much everything," including fear of crowds and strangers due to his PTSD. See Transcript of April 2017 Board Hearing at 5. The Veteran is also unable to do a lot of things that he used to and he wouldn't leave the house were it not for his medication. Id. He watches everything and everybody when he is around other people. Id at 7. Mostly, he stays home and has the darkest house on the street, keeping his windows covered. Id. The Veteran has avoided relationships, only goes out in public when necessary, and takes medication to assist him in leaving his home. Id at 13.
+
+Additionally, the Veteran stated that due to his PTSD he is forgetful and has locked his keys in his car, left groceries at the store, and has forgotten his change at a convenience store. Id at 5. He has issues with his short-term memory but no issues with his long-term memory. Id at 8. He is unable to finish large projects. Id at 9. He sometimes gets angry quickly without thinking. Id at 12.
+
+The Veteran stated he has panic attacks which prompted him to go to the VA on Christmas Eve. Id at 7. He told the doctor that he thought about killing himself. Id at 8. Moreover, he has difficulty sleeping and sleeps about 3 hours a night. Id at 10. Nightmares keep him from sleeping and he experiences occasional flashbacks which also disrupt his sleep. Id at 11. The Veteran stated he sees or hears things that other people don't hear often. Id.
+
+The Veteran's spouse reported that the Veteran's memory is short; he is forgetful and is unable to concentrate. Id at 18, 20. He becomes argumentative, has mood swings, and is defensive. Id at 18. He slams doors and has knocked a hole in the door and wall. Id. Additionally, he does not want too much light in the house. Id at 19.
+
+In May 2017, a vocational expert opined that the Veteran would not be able to sustain competitive employment, even in a part-time job in which he would earn only $12,500. See May 2017 Third Party Correspondence. The vocational expert reasoned that since the Veteran has difficulty with interaction, the Veteran would need a work environment that required rare interaction with others. Id. Additionally, the expert stated that individuals who are off-task more than 10-15 percent of the time would not be able to sustain competitive employment. Id.
+
+The Board finds that the VA treatment records, private treatment records, and private evaluation support a 70 percent rating. The Veteran exhibits occupational and social impairment with deficiencies in most areas such as work, family relations, judgment, thinking, or mood. His symptoms manifested with suicidal ideation, obsessional rituals which interfere with routine activities such as his inability to leave the house, as well as continuous nightmares, panic attacks, and night sweats that have been consistent since 2010. The Veteran has visual and auditory hallucinations. He sees shadows and hears voices calling his name. Additionally, the medical evidence and the testimony of the Veteran and his wife show that the Veteran has short-term memory loss.
+
+However, this same evidence demonstrates that the Veteran's symptoms do not support a 100 percent rating due to total social and occupational impairment, and do not equate in severity, frequency, and duration to total and social impairment, given that the Veteran has maintained a relationship with his family, he is able to perform daily activities, has resumed going to church, and started attending the Senior Citizen center. Thus, the Veteran's PTSD warrants a rating of 70 percent but no higher.
+
+TDIU
+
+The Veteran contends that his service-connected PTSD renders him unemployable and that he is therefore entitled to a TDIU. The Board notes that, generally, total disability will be considered to exist when there is present any impairment of mind or body that is sufficient to render it impossible for the average person to follow a substantially gainful occupation. 38 C.F.R. § 3.340 (2017). 
+
+Total disability ratings are authorized for any disability or combination of disabilities for which the Schedule for Rating Disabilities prescribes a 100 percent disability evaluation, or, with less disability, if certain criteria are met. Id. Where the schedular rating is less than total, a total disability rating for compensation purposes may be assigned when the disabled person is unable to secure or follow a substantially gainful occupation as a result of service-connected disabilities, provided that, if there is only one such disability, this disability shall be ratable at 60 percent or more, or if there are two or more disabilities, there shall be at least one ratable at 40 percent or more, and sufficient additional disability to bring the combined rating to 70 percent or more. Disabilities of one or both upper extremities, or one or both lower extremities, including the bilateral factor, will be considered as one disability. 38 C.F.R. §§ 3.340, 3.341, 4.16 (a). In exceptional circumstances, where a Veteran does not meet the aforementioned percentage requirements, a total rating may nonetheless be assigned upon a showing that the individual is unable to obtain or retain substantially gainful employment. 38 C.F.R. § 4.16 (b).
+
+In reaching such a determination, the central inquiry is "whether the veteran's service-connected disabilities alone are of sufficient severity to produce unemployability." Hatlestad v. Brown, 5 Vet. App. 524, 529 (1993). Consideration may not be given to the impairment caused by nonservice-connected disabilities. See 38 C.F.R. §§ 3.341, 4.16, 4.19.
+
+Service connection is currently in effect for the PTSD (70 percent disabling). The Veteran's PTSD at 70 percent disabling meets the minimum percentage requirements for consideration of a TDIU under 38 C.F.R. § 4.16 (a).
+
+What remains to be determined is whether the Veteran's service connected disabilities render him unemployable.
+
+The Veteran argues that he has difficulty maintaining suitable employment given his PTSD symptomatology, including irritability, temper, anger, trouble getting along with co-workers and authority figures, decreased concentration, and poor social interaction. The Board agrees with the Veteran's contention and finds that TDIU is warranted. 
+
+While it is clear that the Veteran's PTSD affects him in an occupational setting, the Board will not repeat, in its entirety, the discussion of the Veteran's psychiatric symptoms, especially given that the above analysis details the level of such impairment and the appropriate disability rating to account for such impairment. However, of some significance are records which show that the Veteran submitted a July 2015 private examination which assessed the current state of his service-connected PTSD.
+
+The clinical evaluation indicated the Veteran had difficulty in his ability to maintain substantially gainful employment since 2010 due to his PTSD symptoms. See July 2015 Third Party Correspondence. The private examiner found the Veteran is far too excitable, sensitive and irritable to cope with the pressure of any employment responsibilities no matter how simple and routine they are. Id. The examiner reasoned the Veteran reported a long history of conflict with supervisors and coworkers during his more competent years of functioning and his current level of psychological decline would make it nearly impossible for him to effectively share his workspace with others or to appropriately respond to instruction and criticism from others. Id.
+
+The Veteran's private treatment provider also found the Veteran to be permanently and totally disabled and unemployable. See October 2015 Private Treatment Records. The Veteran stated that he was unable to apply for a job because when he saw people, he quickly left because he couldn't take it. See Transcript of April 2017 Board Hearing at 15. He also stated that he is forgetful and worries that he would cause someone to be hurt or killed due to his memory issues. Id.
+
+The Board finds that the Veteran's statements and testimony with respect to the effects of his service-connected PTSD, together with the medical evidence of record, support the conclusion that he is unemployable. The Board is charged with the duty to assess the credibility and weight given to evidence. Wood v. Derwinski, 1 Vet. App. 190, 193 (1991). In this capacity, the Board finds his assertions about the severity of his service-connected PTSD and its impact on his ability to function in a work setting to be credible. The Board further finds that the service-connected PTSD has clearly placed significant barriers to the Veteran's obtaining and securing substantially gainful employment. These findings together are enough to support a determination that the Veteran is unable to secure or follow a substantially gainful occupation as a result of his service-connected PTSD. 
+
+The ultimate issue of whether a TDIU should be awarded is not a medical issue, but rather is a determination for the adjudicator. Geib v. Shinseki, 733 F.3d 1350 (Fed. Cir. 2013) ("applicable regulations place responsibility for the ultimate TDIU determination on the VA, not a medical examiner"). In light of the above, Board resolves all benefit of the doubt in the Veteran's favor and finds that the evidence of record supports the grant of TDIU.
+
+
+ORDER
+
+Entitlement to a 70 percent rating for PTSD is granted, subject to the laws and regulations governing the award of monetary benefits.
+
+Entitlement to a TDIU due to the service-connected PTSD is granted, subject to the laws and regulations governing the award of monetary benefits.
+
+
+
+
+____________________________________________
+DEBORAH SINGLETON
+Veterans Law Judge, Board of Veterans' Appeals
+
+
+
+Department of Veterans Affairs
+
+

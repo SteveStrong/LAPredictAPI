@@ -1,0 +1,107 @@
+Citation Nr: 1800014	
+Decision Date: 01/02/18    Archive Date: 01/19/18
+
+DOCKET NO.  16-24 681	)	DATE
+	)
+	)
+
+On appeal from the
+Department of Veterans Affairs Regional Office in Cleveland, Ohio
+
+
+THE ISSUE
+
+Entitlement to an initial disability rating in excess of 60 percent for service-connected ischemic heart disease (coronary artery disease (CAD) status-post coronary artery bypass graft and pacemaker insertion) (hereinafter referred to as CAD).
+
+
+REPRESENTATION
+
+The Veteran represented by:     Disabled American Veterans
+
+
+ATTORNEY FOR THE BOARD
+
+I. M. Hitchcock, Associate Counsel
+
+
+
+
+
+INTRODUCTION
+
+The Veteran had military service with the Air Force from October 1955 to October 1976.  
+
+These matters come before the Board of Veterans' Appeals (Board) on appeal from an August 2011 rating decision of the above Department of Veterans Affairs (VA) Regional Office (RO).  In that decision, the Veteran was awarded an initial 10 percent rating for his for service-connected ischemic heart disease (CAD status-post coronary artery bypass graft), effective from August 13, 2010.  In a subsequent rating decision dated March 2013, the Veteran's disability was increased to 60 percent, effective from August 13, 2010 and was recharacterized as for service-connected ischemic heart disease (CAD status-post coronary artery bypass graft and pacemaker insertion) (hereinafter referred to as CAD). Therefore, the issue remained viable on appeal, as 60 percent is not the maximum benefit available for this disability.  AB v. Brown, 6 Vet. App. 35, 38 (1993).
+
+This appeal has been advanced on the Board's docket pursuant to 38 C.F.R. § 20.900(c) (2017).  38 U.S.C. § 7107(a)(2) (2012).
+
+
+FINDING OF FACT
+
+Throughout the appeal, the Veteran's service-connected CAD has required continuous medication and has been manifested by a workload of no less than 5 METs (metabolic equivalent) and left ventricular ejection fraction (LVEF) of no less than 40 percent.  There is no evidence of chronic congestive heart failure or that the Veteran has been unable to perform a workload of 3 METs (metabolic equivalent) or less or that he has had LVEF with an ejection fraction of less than 30 percent.
+
+
+
+CONCLUSION OF LAW
+
+Throughout the appeal, the criteria for an initial rating in excess of 60 percent for service-connected CAD have not been met.  38 U.S.C. § 1155, 5103, 5103A, 5107 (2012); 38 C.F.R. § 3.159, 3.321, 4.104, Diagnostic Code (DC) 7005 (2017).
+
+
+REASONS AND BASES FOR FINDING AND CONCLUSION
+
+The Veterans Claims Assistance Act of 2000 (VCAA) and implementing regulations impose obligations on VA to provide claimants with notice and assistance.  38 U.S.C. §§ 5102, 5103, 5103A, 5107 (2012); 38 C.F.R. §§ 3.102, 3.156(a), 3.159, 3.326(a) (2017).  
+
+The Veteran has not referred to any deficiencies in either the duties to notify or assist; therefore, the Board may proceed to the merits of the claim.  See Scott v. McDonald, 789 F.3d 1375, 1381 (Fed. Cir. 2015, cert denied, U.S.C. Oct.3, 2016) (holding that "the Board's obligation to read filings in a liberal manner does not require the Board....to search the record and address procedural arguments when the [appellant] fails to raise them before the Board"); Dickens v. McDonald, 814 F.3d 1359, 1361 (Fed. Cir. 2016) (applying Scott to an appellant's failure to raise a duty to assist argument before the Board).
+
+As explained above, in the March 2013 rating decision, the RO awarded an initial 60 percent disability rating for service-connected CAD, pursuant to 38 C.F.R. § 4.104, DC 7005, effective from August 13, 2010.  The Veteran perfected an appeal as to the initial rating assigned to his disability, which is the basis of this appeal.  
+
+Under DC 7005, a 60 percent rating is warranted when there is more than one episode of acute congestive heart failure in the past year; a workload of greater than 3 METs (metabolic equivalent), but not greater than 5 METs, resulting in dyspnea, fatigue, angina, dizziness, or syncope; or for left ventricular dysfunction with an ejection fraction of 30 to 50 percent.  A 100 percent rating is warranted when there is chronic congestive heart failure; a workload of 3 METs or less resulting in dyspnea, fatigue, angina, dizziness, or syncope; or left ventricular dysfunction with an ejection fraction of less than 30 percent.  38 C.F.R. § 4.104, DC 7005.
+
+For rating diseases of the heart, one MET (metabolic equivalent) is the energy cost of standing quietly at rest and represents an oxygen uptake of 3.5 milliliters per kilogram of body weight per minute.  When the level of METs at which dyspnea, fatigue, angina, dizziness, or syncope develops is required for rating, and a laboratory determination of METs by exercise testing cannot be done for medical reasons, an estimation by a medical examiner of the level of activity (expressed in METs and supported by specific examples, such as slow stair climbing or shoveling snow) that results in dyspnea, fatigue, angina, dizziness, or syncope may be used.  38 C.F.R. § 4.104, Note 2.
+
+The pertinent evidence of record reveals that, throughout the appeal period, the Veteran's CAD has required continuous medication and has been manifested by LVEF of 40 to 50 percent and a workload of 5 to 10 METs.  Additionally, the lay and medical evidence does not reflect that the Veteran's condition has ever resulted in congestive heart failure
+
+The Veteran has asserted that a 100 percent rating is warranted because his symptoms are more closely approximated for a higher rating.  He has had a pacemaker implanted, is on constant medication, and has low energy and shallow breathing when walking too much.  As a result, the Veteran's condition causes him to take many breaks and slows down his life because of the disease. 
+
+Nevertheless, the evidentiary record contains several reports of echocardiograms (echo) and stress tests conducted throughout the appeal period.  An April 2010 private echo revealed LVEF of 45-50 percent, with mild concentric left ventricular hypertrophy and evidence of grade 1 left ventricular diastolic dysfunction.  In a June 2016 echo, the Veteran's LVEF was assessed at 40-45 percent with septal dyskinesia left atrial dilation and a pace maker lead being noted.  
+
+In a stress test with the Veteran's private doctor in March 2013, the Veteran was unable to stay on the treadmill due to poor gait, shortness of breath, and leg problems.  During the test, no ischemic changes were noted, but an adequate heart rate could not be achieved. The private doctor, Dr. C., noted that given the Veteran only lasted for two minutes on the exercise treadmill test, "this qualifies him for his disability benefits."  The opinion by Dr. C. is given little weight because the opinion does not take into account the Veteran's other conditions that may impact his optimal workload of METs. 
+
+The Veteran was seen for an exercise stress test in April 2014 at a VA medical center.  It was noted the Veteran had a "very poor exercise tolerance [as] he could only exercise for 2.8 metabolic units."  This finding has little probative value because the finding does not take into account the Veteran's other conditions that may impact his optimal workload of METs.
+
+The Veteran had an opportunity for a VA cardiovascular examination in August 2011.  However, the Veteran did not appear; therefore, the VA examiner gave an opinion based on the medical information in the record.  The Veteran's METs were estimated to be between 7-10 METS, due to symptoms of fatigue.  
+
+The Veteran was afforded a second VA cardiovascular examination in July 2016.  Upon examination, the Veteran's LVEF was measured at between 40 percent and 45 percent.  The examiner noted that his workload of METs were between 5-7 given that the Veteran could climb 13 steps without cardiac symptoms.  The examiner gave the opinion that the reduction in walking was due to hip pain from aortofemoral bypass; but the examiner could not get a more accurate METs measurement for CAD alone, without resorting to mere speculation.  This speculation is proper under 38 C.F.R. § 4.104, Note 2 because more accurate testing could not be done for medical reasons.  The Board affords great probative weight to the VA examiner's opinion because it is based on a review of the record and considers the impact of the Veteran's other conditions on his ability to perform stress testing.
+
+Based on the foregoing, the Board finds that a rating in excess of 60 percent is not warranted for the Veteran's CAD at any point during the appeal period.  Indeed, the evidence described above does not reflect that his CAD has been manifested by chronic congestive heart failure, a workload of 3 METs or less, or left ventricular dysfunction with an ejection fraction of less than 30 percent.  At best, due to the Veteran's CAD, the evidence shows that the Veteran has achieved a workload of no less than 5 METs during stress tests and that his LVEF has been no less than 40 percent, which is consistent with no higher than a 60 percent rating under DC 7005.  
+
+In evaluating this claim, the Board has considered the Veteran's competent lay statements regarding the symptoms associated with his service-connected CAD; however, neither his statements nor the medical evidence of record provides a basis on which to award a higher disability rating for his disability at any time during the appeal period.  
+
+The Board has also considered whether a higher or separate rating is warranted under any other potentially applicable diagnostic code.  However, the evidence does not establish any additional cardiac diagnoses or findings to warrant evaluation under any other diagnostic code.  
+
+The Board has also considered whether additional staged ratings are appropriate in this case.  However, as noted above, the Veteran's symptomatology has been stable throughout the appeal period and was consistent with no more than a 60 percent rating since service connection was granted, effective August 13, 2010.   Therefore, assigning a staged rating is not warranted in this case.  
+
+In sum, the Board finds that the preponderance of the evidence is against the award of an initial rating in excess of 60 percent for the Veteran's CAD.  Therefore, the benefit of the doubt doctrine is not applicable, and the Veteran's claim for an increased rating is denied.  38 U.S.C. § 5107; 38 C.F.R. §§ 4.3, 4.7.
+
+
+
+
+
+
+
+ORDER
+
+An initial rating in excess of 60 percent for CAD is denied.
+
+
+
+
+____________________________________________
+R. FEINBERG
+Veterans Law Judge, Board of Veterans' Appeals
+
+
+
+Department of Veterans Affairs
+
+

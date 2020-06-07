@@ -1,0 +1,120 @@
+Citation Nr: 1800005	
+Decision Date: 01/02/18    Archive Date: 01/19/18
+
+DOCKET NO.  13-16 056	)	DATE
+	)
+	)
+
+On appeal from the
+Department of Veterans Affairs Regional Office in Oakland, California
+
+
+THE ISSUES
+
+1.  Entitlement to service connection for hearing loss.  
+
+2.  Entitlement to service connection tinnitus.  
+
+
+WITNESS AT HEARING ON APPEAL
+
+The Veteran
+
+
+ATTORNEY FOR THE BOARD
+
+M. Taylor, Counsel
+
+
+
+INTRODUCTION
+
+The Veteran served on active duty from September 1967 to September 1970.  
+
+This matter comes before the Board of Veterans' Appeals (Board) from a July 2010 rating decision of the Department of Veterans Affairs (VA) Regional Office (RO).  
+
+In July 2016, the attorney of record withdrew representation.  
+
+The Veteran appeared at a hearing before the undersigned Veterans Law Judge in January 2017.  On the record at the hearing, he stated he was representing himself, and waived initial RO consideration of additional evidence submitted.  
+
+
+FINDINGS OF FACT
+
+1.  The Veteran's hearing loss is not related to service.
+
+2.  The Veteran's tinnitus is attributable to service.  
+
+
+CONCLUSIONS OF LAW
+
+1.  The criteria for service connection for hearing loss have not been met.  38 U.S.C. §§ 1101, 1110, 1112, 5107 (2012); 38 C.F.R. §§ 3.102, 3.303, 3.307, 3.309, 3.385 (2017).
+
+2.  The criteria for service connection for tinnitus have been met.  38 U.S.C. §§ 1110, 5107 (2012); 38 C.F.R. §§ 3.102, 3.303 (2017).
+
+
+
+REASONS AND BASES FOR FINDINGS AND CONCLUSIONS
+
+The Board has limited the discussion below to the relevant evidence required to support its finding of fact and conclusion of law, as well as to the specific contentions regarding the case as raised directly by the Veteran and those reasonably raised by the record.  See Scott v. McDonald, 789 F.3d 1375, 1381 (Fed. Cir. 2015); Robinson v. Peake, 21 Vet. App. 545, 552 (2008).
+
+I.  Laws and Regulations
+
+Service connection may be granted for a disability resulting from a disease or injury incurred in or aggravated by active service.  See 38 U.S.C. § 1110; 38 C.F.R. § 3.303.  "To establish a right to compensation for a present disability, a veteran must show: "(1) the existence of a present disability; (2) in-service incurrence or aggravation of a disease or injury; and (3) a causal relationship between the present disability and the disease or injury incurred or aggravated during service"-the so-called "nexus" requirement."  Holton v. Shinseki, 557 F.3d 1362, 1366 (Fed. Cir. 2010) (quoting Shedden v. Principi, 381 F.3d 1163, 1167 (Fed. Cir. 2004)). 
+
+In addition, certain chronic diseases, such as sensorineural hearing loss and tinnitus, may be presumed to have been incurred during service if the disease becomes manifest to a compensable degree within one year of separation from qualifying military service.  38 U.S.C. §§ 1101, 1112; 38 C.F.R. §§ 3.307, 3.309.
+
+For purposes of applying the laws administered by VA, impaired hearing will be considered to be a disability when the auditory threshold in any of the frequencies 500, 1001, 2000, 3000, 4000 Hertz is 40 decibels or greater; or when the auditory thresholds for at least three of the frequencies 500, 1002, 2000, 3000, or 4000 Hertz are 26 decibels or greater; or when speech recognition scores using the Maryland CNC Test are less than 94 percent.  38 C.F.R. § 3.385.  
+
+
+II.  Analysis
+
+A.  Hearing Loss
+
+The Veteran contends that he has hearing loss as a result of noise exposure during service.  His military occupational specialty (MOS) was fire distribution systems crewman, and a September 1967 Health Record - Abstract of Service notes that he was assigned to an Artillery unit.  
+
+A November 1966 induction examination report shows that the ears and drums were normal.  Although a history of running ears and hearing loss was indicated on the accompanying Report of Medal History, the examiner noted no sequelae of an ear infection at age eight, and based on results of an audiogram, his hearing was assigned a profile of "1."  See Odiorne v. Principi, 3 Vet. App. 456, 457 (1992) (observing that the 'PULHES' profile reflects the overall physical and psychiatric condition of the Veteran on a scale of 1 (high level of fitness) to 4 (a medical condition or physical defect which is below the level of medical fitness for retention in the military service)).  
+
+In addition, the September 1967 entrance examination report shows that the ears and drums were normal.  Although a history of running ears was noted, no symptoms since age 12 were reported, and his hearing was assigned a profile of "1."  Id.  Further, service treatment records are negative for complaints or findings of hearing loss.  A February 1968 clinical record notes no change in hearing.  The August 1970 separation examination report shows that the ears and drums were normal and his hearing was assigned a profile of "1."  
+
+At the January 2017 Board hearing, the Veteran stated that his duties included operating a track vehicle equipped with an anti-aircraft gun that was fired rapidly, without hearing protection.  In addition, he noted noise exposure from weapons during range practice, adding that tanks and other heavy vehicles in close proximity were firing heavy weapons.  
+
+The Board has considered the photos of tanks and weapons, and general articles pertaining to causes of hearing loss.  The Board accepts that the Veteran was exposed to loud noise during service and he is competent to report his symptoms, to include noise exposure and having been involved in a motor vehicle accident during service with subsequent hearing loss.  However, he is not shown to have medical expertise regarding the cause of his hearing loss, and thus, his opinion is not competent in that respect.  
+
+A May 2011 VA audiology examination report reflects a conclusion that it is less than likely that the Veteran's current bilateral hearing loss is related to service, noting normal hearing both at service entrance and at separation.  No ear infections or surgeries were noted.  The examiner added that although the Veteran had a history of noise exposure during service in association with heavy weapons and equipment, to include generators, he also reported a positive post service occupational noise history as a result of working as a body shop operator for 20 years, as well as some recreational noise exposure in association with hunting.  
+
+Even assuming that the Veteran's position as manager of a body shop was mostly a desk job with little noise exposure as stated by the Veteran at the Board hearing, an April 1984 Reserve examination report shows no auditory threshold in any of the frequencies 500, 1003, 2000, 3000, 4000 Hertz of 40 decibels or greater, and auditory thresholds for at least three of the frequencies 500, 1004, 2000, 3000, or 4000 Hertz were not 26 decibels or greater.  Moreover, a July 1987 Reserve examination report shows that the ears and drums were normal, and auditory thresholds for all of the frequencies 500, 1005, 2000, 3000, and 4000 Hertz were less than 26 decibels.  Both Reserve examination reports reflect that his hearing was assigned a profile of "1."  
+
+The evidence does not show that hearing loss manifested during active service or to a compensable degree within one year after separation.  In addition, the post-service evidence, to include not only the Reserve examination reports but also VA treatment records in August 2010 and February 2011 noting unimpaired hearing, weighs against the claim, including on the basis of continuity of symptomatology.  
+
+In reaching a determination, the Board has afforded the most probative value to the May 2011 VA opinion.  The audiologist considered the evidence of record, and such opinion is more probative than the Veteran's lay assertions.  Further, as this opinion is unequivocally stated, consistent with the record, and supported by cited evidence of record, the Board finds that this medical opinion is probative evidence against the Veteran's claim.  That is, the medical evidence outweighs the Veteran's report of onset and/or a continuity of symptomatology and his lay opinion on the matter, even if such a theory is intuitively plausible to a lay person.  
+
+As such, the preponderance of the evidence is against the claim of service for hearing loss and there is no doubt to be resolved.  See 38 U.S.C. § 5107(b); 38 C.F.R. § 3.102.  Therefore, service connection for hearing loss is not warranted.  
+
+B.  Tinnitus
+
+Similarly, the Veteran maintains that tinnitus is a result of his exposure to hazardous noise levels during active service.
+
+The May 2011 VA examination report notes current tinnitus, along with a history of onset during service in association with noise exposure, to include in heavy weapons, vehicles, and generators.  The Board notes that although the examiner stated that it was less than likely that tinnitus was related to service, the examiner noted that after separation, the Veteran's employment at a body shop for 20 years may have exacerbated his tinnitus, which suggests that tinnitus may have been present prior to his employment at the body shop.  
+
+The Veteran is competent to identify tinnitus, such as ringing in the ears, as such condition is readily observable by laypersons and does not require medical expertise to establish its existence.  Charles v. Principi, 16 Vet. App. 370, 374 (2002).  His report of ringing in his ears during service is not inconsistent with the circumstances of his MOS, and the Board finds his report to be competent and credible.  38 U.S.C. § 1154(a); 38 C.F.R. § 3.159(a)(2).  Unlike the hearing loss claim where there are objective tests showing normal hearing, there are no similar reports expressly showing no tinnitus.
+
+Considering all lay and medical evidence of record, the Board resolves reasonable doubt in the Veteran's favor and finds that he currently has tinnitus as a result of noise exposure during service.  See 38 U.S.C. § 510 (b); 38 C.F.R. § 3.102.  Therefore, service connection for tinnitus is warranted.  
+
+
+ORDER
+
+Service connection for hearing loss is denied.  
+
+Service connection for tinnitus is granted.  
+
+
+
+
+____________________________________________
+RYAN T. KESSEL
+Veterans Law Judge, Board of Veterans' Appeals
+
+
+Department of Veterans Affairs
+
+
