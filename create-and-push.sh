@@ -11,7 +11,7 @@
 
 docker build -t lapredict -f Dockerfile  .
 echo "build done"
-docker tag lapredict lacontainers.azurecr.io/lapredict 
+docker tag lapredict lapredict.azurecr.io/lapredict 
 echo "tag done"
-docker push lacontainers.azurecr.io/lapredict 
+docker push lapredict.azurecr.io/lapredict 
 echo "push done"
