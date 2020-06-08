@@ -134,8 +134,8 @@ def startup():
     app.NPLModels.append(NLPEngine().createModel("version2"))
 
     # if local
-    app.run(port=8000, threaded=False, host=('127.0.0.1'))
-    # app.run(port=8000, threaded=False, host=('0.0.0.0'))
+    # app.run(port=8000, threaded=False, host=('127.0.0.1'))
+    app.run(port=8000, threaded=False, host=('0.0.0.0'))
 
 if __name__ == '__main__':
     startup()
