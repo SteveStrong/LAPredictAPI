@@ -12,6 +12,7 @@ class PayloadWrapper:
             "payload": data,
         }
         return result
+
     def error(self, message):
         data = jsonify(message)
         result = {
@@ -21,3 +22,7 @@ class PayloadWrapper:
             "payload": [],
         }
         return result
+        
+    def headers(self):
+        return {'Content-Type': 'application/json', 'Access-Control-Allow-Origin': '*', 'Access-Control-Allow-Headers': 'Content-Type', 'Access-Control-Allow-Methods': 'POST, GET, PUT, DELETE, OPTIONS'}
+       

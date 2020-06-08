@@ -27,6 +27,8 @@ def after_request(response):
     response.headers.add('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE')
     return response
 
+# https: // www.youtube.com / watch ? v = DPBspKl2epk
+
 app.NPLModels = []
 
 # monkey patch courtesy of
@@ -59,11 +61,9 @@ class About(Resource):
         res = pw.success([],"things are working")
         return res, 200
 
-    def options (self):
-        return {'Allow' : 'PUT' }, 200, \
-        { 'Access-Control-Allow-Origin': '*', \
-        'Access-Control-Allow-Methods' : 'PUT,GET' }
-
+    def options(self):
+        pw = PayloadWrapper()
+        return pw.success([],"OK"), 200, pw.headers()
 
 
 @ns.route('/Predict/<string:text>')  
@@ -88,10 +88,9 @@ class Predict(Resource):
             res = pw.error(message)
             return res, 400
 
-    def options (self):
-        return {'Allow' : 'PUT' }, 200, \
-        { 'Access-Control-Allow-Origin': '*', \
-        'Access-Control-Allow-Methods': 'PUT,GET'}
+    def options(self):
+        pw = PayloadWrapper()
+        return pw.success([],"OK"), 200, pw.headers()
 
 
 classify = api.model("classify", {
@@ -123,10 +122,9 @@ class Classify(Resource):
             res = pw.error(message)
             return res, 400
 
-    def options (self):
-        return {'Allow' : 'PUT' }, 200, \
-        { 'Access-Control-Allow-Origin': '*', \
-        'Access-Control-Allow-Methods': 'PUT,GET,POST'}
+    def options(self):
+        pw = PayloadWrapper()
+        return pw.success([],"OK"), 200, pw.headers()
 
 def startup():
     app.NPLModels.append(NLPEngine().createModel("original"))
