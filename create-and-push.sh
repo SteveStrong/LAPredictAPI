@@ -9,6 +9,12 @@
 # docker build -t lapredict .
 # docker run -d -p 8000:8000 --name predictor lapredict
 
+#  https://docs.microsoft.com/en-us/azure/container-registry/container-registry-get-started-docker-cli
+#  to put into azurecr.io 
+#  az login
+#  az acr login --name lapredict
+
+
 docker build -t lapredict -f Dockerfile  .
 echo "build done"
 docker tag lapredict lapredict.azurecr.io/lapredict 
