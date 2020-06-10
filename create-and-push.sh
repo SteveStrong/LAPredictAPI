@@ -9,6 +9,8 @@
 # docker build -t lapredict .
 # docker run -d -p 8000:8000 --name predictor lapredict
 
+#  https://blog.container-solutions.com/a-guide-to-solving-those-mystifying-cors-issues
+
 #  https://docs.microsoft.com/en-us/azure/container-registry/container-registry-get-started-docker-cli
 #  to put into azurecr.io 
 #  az login
