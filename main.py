@@ -12,20 +12,20 @@ from flask_cors import CORS
 from payload_wrapper import PayloadWrapper
 
 app = Flask(__name__)
-cors = CORS(app)
+CORS(app)
 
 #  https://flask-cors.readthedocs.io/en/1.10.2/
 # Set CORS options on app configuration
-app.config['CORS_ALLOW_HEADERS'] = "Content-Type"
-app.config['CORS_RESOURCES'] = {r"lapredict/api/*": {"origins": "*"}}
+# app.config['CORS_ALLOW_HEADERS'] = "Content-Type"
+# app.config['CORS_RESOURCES'] = {r"lapredict/api/*": {"origins": "*"}}
 
 # https://stackoverflow.com/questions/19962699/flask-restful-cross-domain-issue-with-angular-put-options-methods
-@app.after_request
-def after_request(response):
-    response.headers.add('Access-Control-Allow-Origin', '*')
-    response.headers.add('Access-Control-Allow-Headers', 'Content-Type,Authorization')
-    response.headers.add('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE')
-    return response
+# @app.after_request
+# def after_request(response):
+#     response.headers.add('Access-Control-Allow-Origin', '*')
+#     response.headers.add('Access-Control-Allow-Headers', 'Content-Type,Authorization')
+#     response.headers.add('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE')
+#     return response
 
 # https: // www.youtube.com / watch ? v = DPBspKl2epk
 
@@ -88,9 +88,9 @@ class Predict(Resource):
             res = pw.error(message)
             return res, 400
 
-    def options(self):
-        pw = PayloadWrapper()
-        return pw.success([],"OK"), 200, pw.headers()
+    # def options(self):
+    #     pw = PayloadWrapper()
+    #     return pw.success([],"OK"), 200, pw.headers()
 
 
 classify = api.model("classify", {
@@ -124,12 +124,12 @@ class Classify(Resource):
 
     def options(self):
         pw = PayloadWrapper()
-        return pw.success([],"OK"), 200, pw.headers()
+        return "OK", 200, pw.headers()
 
 def startup():
     app.NPLModels.append(NLPEngine().createModel("original"))
-    app.NPLModels.append(NLPEngine().createModel("version1"))
-    app.NPLModels.append(NLPEngine().createModel("version2"))
+    # app.NPLModels.append(NLPEngine().createModel("version1"))
+    # app.NPLModels.append(NLPEngine().createModel("version2"))
 
     # if local
     # app.run(port=8000, threaded=False, host=('127.0.0.1'))

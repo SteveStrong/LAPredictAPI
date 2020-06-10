@@ -9,9 +9,17 @@
 # docker build -t lapredict .
 # docker run -d -p 8000:8000 --name predictor lapredict
 
+#  https://blog.container-solutions.com/a-guide-to-solving-those-mystifying-cors-issues
+
+#  https://docs.microsoft.com/en-us/azure/container-registry/container-registry-get-started-docker-cli
+#  to put into azurecr.io 
+#  az login
+#  az acr login --name lapredict
+
+
 docker build -t lapredict -f Dockerfile  .
 echo "build done"
-docker tag lapredict lacontainers.azurecr.io/lapredict 
+docker tag lapredict lapredict.azurecr.io/lapredict 
 echo "tag done"
-docker push lacontainers.azurecr.io/lapredict 
+docker push lapredict.azurecr.io/lapredict 
 echo "push done"
