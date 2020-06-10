@@ -88,9 +88,9 @@ class Predict(Resource):
             res = pw.error(message)
             return res, 400
 
-    def options(self):
-        pw = PayloadWrapper()
-        return pw.success([],"OK"), 200, pw.headers()
+    # def options(self):
+    #     pw = PayloadWrapper()
+    #     return pw.success([],"OK"), 200, pw.headers()
 
 
 classify = api.model("classify", {
@@ -122,14 +122,14 @@ class Classify(Resource):
             res = pw.error(message)
             return res, 400
 
-    def options(self):
-        pw = PayloadWrapper()
-        return pw.success([],"OK"), 200, pw.headers()
+    # def options(self):
+    #     pw = PayloadWrapper()
+    #     return pw.success([],"OK"), 200, pw.headers()
 
 def startup():
     app.NPLModels.append(NLPEngine().createModel("original"))
-    app.NPLModels.append(NLPEngine().createModel("version1"))
-    app.NPLModels.append(NLPEngine().createModel("version2"))
+    # app.NPLModels.append(NLPEngine().createModel("version1"))
+    # app.NPLModels.append(NLPEngine().createModel("version2"))
 
     # if local
     # app.run(port=8000, threaded=False, host=('127.0.0.1'))
