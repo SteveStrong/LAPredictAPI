@@ -13,3 +13,4 @@ scikit-learn
 keras
 tensorflow==1.15
 pandas
+h5py
