@@ -122,9 +122,9 @@ class Classify(Resource):
             res = pw.error(message)
             return res, 400
 
-    # def options(self):
-    #     pw = PayloadWrapper()
-    #     return pw.success([],"OK"), 200, pw.headers()
+    def options(self):
+        pw = PayloadWrapper()
+        return "OK", 200, pw.headers()
 
 def startup():
     app.NPLModels.append(NLPEngine().createModel("original"))
@@ -132,8 +132,8 @@ def startup():
     # app.NPLModels.append(NLPEngine().createModel("version2"))
 
     # if local
-    # app.run(port=8000, threaded=False, host=('127.0.0.1'))
-    app.run(port=8000, threaded=False, host=('0.0.0.0'))
+    app.run(port=8000, threaded=False, host=('127.0.0.1'))
+    # app.run(port=8000, threaded=False, host=('0.0.0.0'))
 
 if __name__ == '__main__':
     startup()
