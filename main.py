@@ -11,6 +11,9 @@ from flask_cors import CORS
 
 from payload_wrapper import PayloadWrapper
 
+from k2logger.logger_singleton import Singleton
+logger = Singleton().get_instance().get_logger("ping.py")
+
 app = Flask(__name__)
 CORS(app)
 
@@ -51,46 +54,23 @@ api = Api(app,
 ns = api.namespace('lapredict/api/v1', description='Classify sentences')
 
 
+#  http://lapredictapi.azurewebsites.net/lapredict/api/v1/
 
-
-@ns.route('/healthcheck')
+@ns.route('/')
 class About(Resource):
     @ns.doc('learn about this solution')
     def get(self):
         pw = PayloadWrapper()
-        res = pw.success([],"things are working")
-        return res, 200
+        res = pw.success([], "things are working")
+        logger.debug(res)
+        return res, 200, pw.headers()
+
 
     def options(self):
         pw = PayloadWrapper()
-        return pw.success([],"OK"), 200, pw.headers()
+        logger.debug("options OK")
+        return "OK", 200, pw.headers()
 
-
-@ns.route('/Predict/<string:text>')  
-class Predict(Resource):
-    def __init__(self, api=None, *args, **kwargs):
-        super().__init__(api=api, *args, **kwargs)
-       
-
-    @ns.doc('use this to predict a sentence classes')
-    def get(self,text):
-        pw = PayloadWrapper()
-        try:
-            results = []
-
-            for nlp in app.NPLModels: 
-                result = nlp.predict(text, print=False)
-                results.append(result)
-
-            res = pw.success(results)
-            return res, 200
-        except Exception as message:
-            res = pw.error(message)
-            return res, 400
-
-    # def options(self):
-    #     pw = PayloadWrapper()
-    #     return pw.success([],"OK"), 200, pw.headers()
 
 
 classify = api.model("classify", {
@@ -117,13 +97,17 @@ class Classify(Resource):
                 results.append(result)
 
             res = pw.success(results)
-            return res, 200
+            logger.debug(res)
+            return res, 200, pw.headers()
+
         except Exception as message:
             res = pw.error(message)
-            return res, 400
+            return res, 400, pw.headers()
+
 
     def options(self):
         pw = PayloadWrapper()
+        logger.debug("options OK")
         return "OK", 200, pw.headers()
 
 def startup():
