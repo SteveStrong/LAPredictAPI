@@ -54,7 +54,7 @@ api = Api(app,
 ns = api.namespace('lapredict/api/v1', description='Classify sentences')
 
 
-
+#  http://lapredictapi.azurewebsites.net/lapredict/api/v1/
 
 @ns.route('/')
 class About(Resource):
