@@ -8,7 +8,7 @@ class PayloadWrapper:
         result = {
             "hasErrors": False,
             "message": message,
-            "Length": len(data),
+            "length": len(data),
             "payloadType": "PredictionResult",
             "payload": data,
         }
@@ -19,7 +19,7 @@ class PayloadWrapper:
         result = {
             "hasErrors": True,
             "message": data,
-            "Length": 0,
+            "length": 0,
             "payloadType": "PredictionResult",
             "payload": [],
         }
