@@ -1,7 +1,7 @@
 click==6.7
 Flask==1.0
 itsdangerous==0.24
-Werkzeug==0.16.1
+Werkzeug==2.2.3
 
 elasticsearch
 flask-cors
